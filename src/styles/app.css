@@ -1,0 +1,14 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.App{
+    /* background-color: red; */
+    width:70% ;
+    margin: 0px auto;
+}
+
+@media (max-width:600px) {
+    .App{
+        width: 100%;
+    }
+}
