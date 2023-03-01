@@ -3,4 +3,4 @@ Aplicacion de notas con la libreria de React, utilizando localStorage para almac
 
 <h2>App Notas</h2>
 
-[![principal.png](https://i.postimg.cc/YqQkrJFP/principal.png)](https://postimg.cc/yk62npvh)
+[![principal.png](https://i.postimg.cc/HkJw89pF/principal.png)](https://postimg.cc/nXJj6791)
